@@ -4,39 +4,6 @@ import lista_caballos;import random
 from datetime import date, time, datetime
 import time
 
-names_caballos = [
-    "Lucky",
-    "Macario",
-    "Obama",
-    "Odín",
-    "Ohio",
-    "Pegaso",
-    "Perseo",
-    "Rayo",
-    "Raven",
-    "Relámpago",
-    "Sargento",
-    "Silvestre",
-    "Sultán",
-    "Pistacho",
-    "Príncipe",
-    "Simeón",
-    "Rabión",
-    "Plata",
-    "Mickey",
-    "Neptuno",
-    "Picasso",
-    "Rosa",
-    "Laica",
-    "Pompeyo",
-    "paz",
-    "Sol",
-    "Felix",
-    "Liz",
-    "Capitan",
-    "Coronel"
-]
-
 dataApuesta = {}
 dataTime = []
 def apuesta(dataApuesta,dataTime):
