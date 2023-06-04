@@ -1,0 +1,10 @@
+cedula,nombre,edad,genero,numero_caballo,caballo,dinero
+4321,daviid,19,masculino,10,Mickey,198000
+3456,juan,19,masculino,10,Plata,9800
+9870,oscar,25,masculino,9,Príncipe,1980000
+1234,danny,19,masculino,9,Plata,1000
+1234,danny,19,masculino,9,Macario,1000
+3454,nohelia,26,femenino,6,Rayo,19000
+5774,junior,33,masculino,9,Odín,8000
+9898,sofia,29,femenino,6,Pegaso,10000
+7563,julieth,19,femenino,10,Rayo,98000
